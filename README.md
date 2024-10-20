@@ -10,7 +10,7 @@ hey there, I'm Nati
 # techs i work with:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=natifessh&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+![]https://camo.githubusercontent.com/fe1c22c28fa0ead711672de58aab33ed7dd726916f6c315f9449228e285c59a4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e61746966657373682673686f775f69636f6e733d74727565266c6f63616c653d656e
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
