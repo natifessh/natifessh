@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 hey there, I'm Nati
 
 
