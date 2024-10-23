@@ -32,9 +32,7 @@
   
   <a href="https://twitter.com/nati_fessh" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-   <img src="https://komarev.com/ghpvc/?username=natifessh&style=flat-square&color=blue" alt=""/>
-
+  
  
           
 </div>
